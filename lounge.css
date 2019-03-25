@@ -1,0 +1,19 @@
+.t1{
+  border: 1px groove black;
+  background: #d01745;
+  padding: 25px;
+  margin: 30px;
+  line-height: 1.9em;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+  color: #444444;
+  background-image: url(images/background.gif);
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  padding-left: 80px;
+  margin-right: 250px;
+  border-radius: 12px;
+ 
+  margin: 0 auto;
+}
+
