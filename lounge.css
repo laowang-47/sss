@@ -6,7 +6,7 @@
   line-height: 1.9em;
   font-style: italic;
   font-family: 'Times New Roman', Times, serif;
-  color: #444444;
+  color: #444434;
   background-image: url(images/background.gif);
   background-repeat: no-repeat;
   background-position: bottom left;
@@ -17,3 +17,13 @@
   margin: 0 auto;
 }
 
+.hehe{
+   border:1px solid #444434;
+   width: 200px;
+   padding:0 20px 20px 20px;
+   margin-left: 20px;
+   text-align: center;
+   background-image: url(images/cocktail.gif);
+   background-repeat: repeat-x;
+   
+}
