@@ -25,5 +25,15 @@
    text-align: center;
    background-image: url(images/cocktail.gif);
    background-repeat: repeat-x;
-   
+   margin: 0 auto;
+   min-height: 1px; 
 }
+
+.hehe h2{
+  color: aqua;
+}
+
+.hehe h3 {
+  color: #d12c47;
+}
+
