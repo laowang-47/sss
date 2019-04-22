@@ -115,17 +115,23 @@ height: 108px;
 .cou{
   position: fixed;
   top: 350px;
-  left: 0px;
+  left: -200px;
+  transition: all 2s linear;
 }
 
 .cou a img{
-  width:10px;
-  height: 150px;
-  transition: width 2s;
+  width:300px;
+  height: 200px;
+  transition: all 2s linear;
 }
 
 
-.cou a img:hover{
-  width: 300px;
+.cou:hover{
+ left:0px;
+}
 
+.award{
+  position: absolute;
+  top: 30px;
+  left: 365px;
 }
