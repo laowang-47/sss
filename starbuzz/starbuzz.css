@@ -18,7 +18,7 @@ body {
   margin:           0px 10px 10px 10px;
   float: left;
   width: 40%;
-  height: 700px;
+  height: 1000px;
 }
 
 #sidebar {
@@ -28,7 +28,8 @@ body {
   margin:           0px 10px 10px 10px;
   float: left;
   width:30%;
-  height: 700px;
+  height: 1007px;
+  margin-left: 20px;
 }
 
 #footer {
@@ -104,7 +105,7 @@ height: 108px;
   width: 20%;
   padding:15px;
   vertical-align: top;
-  height: 700px;
+  height: 1007px;
  margin-left: 12px;
 }
 
@@ -168,13 +169,13 @@ ul li.selected a{
 section#blog{
   display: table-cell;
   background:  #efe5d0 url(images/background.gif);
-  font-size: 104%;
+  font-size: 14px;
   padding: 5px;
   vertical-align: top;
   width: 40%;
   float: left;
   margin-left: 15px;
-  height: 720px;
+  height: 30%;
 }
 
 #tableContainer{
